@@ -1,0 +1,15 @@
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/NumberGuesser.deps.json
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.json
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/NumberGuesser.runtimeconfig.dev.json
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/NumberGuesser.dll
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/ref/NumberGuesser.dll
+/Users/dominicbishop/Desktop/NumberGuesser/bin/Debug/net5.0/NumberGuesser.pdb
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csproj.AssemblyReference.cache
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.AssemblyInfo.cs
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.dll
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/ref/NumberGuesser.dll
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.pdb
+/Users/dominicbishop/Desktop/NumberGuesser/obj/Debug/net5.0/NumberGuesser.genruntimeconfig.cache
